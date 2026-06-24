@@ -7,9 +7,9 @@
 ### **Identitas Praktikan**
 | Detail Mahasiswa | Informasi |
 | :--- | :--- |
-| **Nama** | [Fadia Nabila Shifa] |
-| **NIM** | [103072400066] |
-| **Kelas** | [IF-04-02] |
+| **Nama** | I Wayan Adnyana Kusuma Wijaya |
+| **NIM** | 103072400040 |
+| **Kelas** | IF-04-02 |
 
 
 ---
